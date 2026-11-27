@@ -1,0 +1,352 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480" width="1200" height="480" role="img" lang="ru" aria-label="Searchwright, SEO-аудит, который показывает доказательства. Анимация: /seo audit обходит 48 страниц, ставит сайту 64 и перечисляет находки со страницами и цитатой, где они найдены; /seo fix правит код в отдельной ветке, заново проверяет каждую находку, и оценка растёт до 96.">
+<title>Searchwright: SEO-аудит, который показывает доказательства</title>
+<style>
+text{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif}
+.m{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace}
+.o{transform-box:fill-box;transform-origin:center}
+.ol{transform-box:fill-box;transform-origin:left center}
+.otl{transform-box:fill-box;transform-origin:0 0}
+@keyframes k1{0%{transform:translate(0px,0px)} 100%{transform:translate(-90px,34px)}}
+.k1{animation:k1 13s ease-in-out infinite alternate}
+@keyframes k2{0%{transform:translate(0px,0px)} 100%{transform:translate(110px,-40px)}}
+.k2{animation:k2 17s ease-in-out infinite alternate}
+@keyframes k3{0%{transform:translate(0px,0px) scale(1)} 100%{transform:translate(60px,30px) scale(1.15)}}
+.k3{animation:k3 11s ease-in-out infinite alternate}
+@keyframes k4{0.00%{transform:translateX(-500px)} 79.72%{transform:translateX(-500px)} 86.94%{transform:translateX(1400px)} 100.00%{transform:translateX(1400px)}}
+.k4{animation:k4 18.0s ease-in-out infinite}
+@keyframes k5{0.00%{stroke-dashoffset:28px} 1.39%{stroke-dashoffset:28px} 4.72%{stroke-dashoffset:0px} 100.00%{stroke-dashoffset:0px}}
+.k5{animation:k5 18.0s ease-in-out infinite}
+@keyframes k6{0%{transform:scale(1);opacity:0.65} 70%{transform:scale(1.9);opacity:0} 100%{transform:scale(1.9);opacity:0}}
+.k6{animation:k6 3.4s ease-out infinite normal}
+@keyframes k7{0.00%{transform:translateX(0px)} 5.00%{transform:translateX(0px)} 11.67%{transform:translateX(640px)} 80.00%{transform:translateX(640px)} 80.06%{transform:translateX(0px)} 80.56%{transform:translateX(0px)} 87.22%{transform:translateX(640px)} 100.00%{transform:translateX(640px)}}
+.k7{animation:k7 18.0s ease-in-out infinite}
+@keyframes k8{0%{transform:scale(1);opacity:0.8} 60%{transform:scale(3.2);opacity:0} 100%{transform:scale(3.2);opacity:0}}
+.k8{animation:k8 2.6s ease-out infinite normal}
+@keyframes k9{0%{transform:scale(1);opacity:0.8} 60%{transform:scale(3.2);opacity:0} 100%{transform:scale(3.2);opacity:0}}
+.k9{animation:k9 2.6s ease-out 0.85s infinite normal}
+@keyframes k10{0%{transform:scale(1);opacity:0.8} 60%{transform:scale(3.2);opacity:0} 100%{transform:scale(3.2);opacity:0}}
+.k10{animation:k10 2.6s ease-out 1.70s infinite normal}
+@keyframes k11{0%{stroke-dashoffset:0;opacity:1} 100%{stroke-dashoffset:-1000;opacity:1}}
+.k11{animation:k11 8.0s linear infinite normal}
+@keyframes k12{0.00%{opacity:1} 55.28%{opacity:1} 55.83%{opacity:0} 98.33%{opacity:0} 98.89%{opacity:1} 100.00%{opacity:1}}
+.k12{animation:k12 18.0s linear infinite}
+@keyframes k13{0.00%{opacity:0} 55.28%{opacity:0} 55.83%{opacity:1} 98.33%{opacity:1} 98.89%{opacity:0} 100.00%{opacity:0}}
+.k13{animation:k13 18.0s linear infinite}
+@keyframes k14{0.00%{transform:scale(1)} 55.56%{transform:scale(1)} 56.39%{transform:scale(1.18)} 57.78%{transform:scale(1)} 100.00%{transform:scale(1)}}
+.k14{animation:k14 18.0s ease-in-out infinite}
+@keyframes k15{0.00%{opacity:1} 95.56%{opacity:1} 98.33%{opacity:0} 100.00%{opacity:0}}
+.k15{animation:k15 18.0s ease-in-out infinite}
+@keyframes k16{0.00%{transform:translateX(0px)} 2.50%{transform:translateX(0px)} 9.72%{transform:translateX(312.96px)} 100.00%{transform:translateX(312.96px)}}
+.k16{animation:k16 18.0s steps(30) infinite}
+@keyframes k17{0.00%{opacity:0} 0.28%{opacity:0} 0.33%{opacity:1} 10.56%{opacity:1} 10.61%{opacity:0} 100.00%{opacity:0}}
+.k17{animation:k17 18.0s step-end infinite}
+@keyframes k18{0.00%{opacity:0} 10.83%{opacity:0} 11.39%{opacity:1} 23.61%{opacity:1} 24.17%{opacity:0} 100.00%{opacity:0}}
+.k18{animation:k18 18.0s ease-in-out infinite}
+@keyframes k19{0%{transform:rotate(0deg)} 100%{transform:rotate(360deg)}}
+.k19{animation:k19 0.8s linear infinite normal}
+@keyframes k20{0.00%{opacity:0} 23.61%{opacity:0} 24.44%{opacity:1} 100.00%{opacity:1}}
+.k20{animation:k20 18.0s ease-in-out infinite}
+@keyframes k21{0.00%{transform:scaleX(0)} 11.11%{transform:scaleX(0)} 22.78%{transform:scaleX(1)} 100.00%{transform:scaleX(1)}}
+.k21{animation:k21 18.0s cubic-bezier(.4,.1,.4,1) infinite}
+@keyframes k22{0.00%{opacity:0} 13.89%{opacity:0} 14.00%{opacity:1} 16.67%{opacity:1} 16.78%{opacity:0} 100.00%{opacity:0}}
+.k22{animation:k22 18.0s linear infinite}
+@keyframes k23{0.00%{opacity:0} 16.67%{opacity:0} 16.78%{opacity:1} 19.44%{opacity:1} 19.56%{opacity:0} 100.00%{opacity:0}}
+.k23{animation:k23 18.0s linear infinite}
+@keyframes k24{0.00%{opacity:0} 19.44%{opacity:0} 19.56%{opacity:1} 22.22%{opacity:1} 22.33%{opacity:0} 100.00%{opacity:0}}
+.k24{animation:k24 18.0s linear infinite}
+@keyframes k25{0.00%{opacity:0} 22.22%{opacity:0} 22.33%{opacity:1} 100.00%{opacity:1}}
+.k25{animation:k25 18.0s linear infinite}
+@keyframes k26{0.00%{transform:translateX(0px);opacity:0} 10.83%{transform:translateX(0px);opacity:0} 11.39%{transform:translateX(0px);opacity:1} 21.39%{transform:translateX(300px);opacity:1} 22.50%{transform:translateX(300px);opacity:0} 100.00%{transform:translateX(300px);opacity:0}}
+.k26{animation:k26 18.0s linear infinite}
+@keyframes k27{0.00%{transform:translateX(0px);opacity:0} 67.50%{transform:translateX(0px);opacity:0} 68.06%{transform:translateX(0px);opacity:1} 75.83%{transform:translateX(300px);opacity:1} 76.94%{transform:translateX(300px);opacity:0} 100.00%{transform:translateX(300px);opacity:0}}
+.k27{animation:k27 18.0s linear infinite}
+@keyframes k28{0.00%{fill:#1A2442} 11.39%{fill:#1A2442} 11.94%{fill:#3FE0C5} 14.17%{fill:#2C4C7A} 100.00%{fill:#2C4C7A}}
+.k28{animation:k28 18.0s ease-in-out infinite}
+@keyframes k29{0.00%{fill:#1A2442} 12.22%{fill:#1A2442} 12.78%{fill:#3FE0C5} 15.00%{fill:#2C4C7A} 100.00%{fill:#2C4C7A}}
+.k29{animation:k29 18.0s ease-in-out infinite}
+@keyframes k30{0.00%{fill:#1A2442} 13.06%{fill:#1A2442} 13.61%{fill:#3FE0C5} 15.83%{fill:#2C4C7A} 100.00%{fill:#2C4C7A}}
+.k30{animation:k30 18.0s ease-in-out infinite}
+@keyframes k31{0.00%{fill:#1A2442} 13.89%{fill:#1A2442} 14.44%{fill:#3FE0C5} 16.67%{fill:#2C4C7A} 24.72%{fill:#2C4C7A} 25.83%{fill:#FF6B6B} 70.44%{fill:#FF6B6B} 71.00%{fill:#FFFFFF} 72.39%{fill:#5BE38E} 100.00%{fill:#5BE38E}}
+.k31{animation:k31 18.0s ease-in-out infinite}
+@keyframes k32{0.00%{fill:#1A2442} 14.72%{fill:#1A2442} 15.28%{fill:#3FE0C5} 17.50%{fill:#2C4C7A} 100.00%{fill:#2C4C7A}}
+.k32{animation:k32 18.0s ease-in-out infinite}
+@keyframes k33{0.00%{fill:#1A2442} 15.56%{fill:#1A2442} 16.11%{fill:#3FE0C5} 18.33%{fill:#2C4C7A} 100.00%{fill:#2C4C7A}}
+.k33{animation:k33 18.0s ease-in-out infinite}
+@keyframes k34{0.00%{fill:#1A2442} 16.39%{fill:#1A2442} 16.94%{fill:#3FE0C5} 19.17%{fill:#2C4C7A} 100.00%{fill:#2C4C7A}}
+.k34{animation:k34 18.0s ease-in-out infinite}
+@keyframes k35{0.00%{fill:#1A2442} 17.22%{fill:#1A2442} 17.78%{fill:#3FE0C5} 20.00%{fill:#2C4C7A} 24.44%{fill:#2C4C7A} 25.56%{fill:#FFB547} 72.89%{fill:#FFB547} 73.44%{fill:#FFFFFF} 74.83%{fill:#5BE38E} 100.00%{fill:#5BE38E}}
+.k35{animation:k35 18.0s ease-in-out infinite}
+@keyframes k36{0.00%{fill:#1A2442} 18.06%{fill:#1A2442} 18.61%{fill:#3FE0C5} 20.83%{fill:#2C4C7A} 100.00%{fill:#2C4C7A}}
+.k36{animation:k36 18.0s ease-in-out infinite}
+@keyframes k37{0.00%{fill:#1A2442} 18.89%{fill:#1A2442} 19.44%{fill:#3FE0C5} 21.67%{fill:#2C4C7A} 100.00%{fill:#2C4C7A}}
+.k37{animation:k37 18.0s ease-in-out infinite}
+@keyframes k38{0.00%{fill:#1A2442} 19.72%{fill:#1A2442} 20.28%{fill:#3FE0C5} 22.50%{fill:#2C4C7A} 100.00%{fill:#2C4C7A}}
+.k38{animation:k38 18.0s ease-in-out infinite}
+@keyframes k39{0.00%{fill:#1A2442} 20.56%{fill:#1A2442} 21.11%{fill:#3FE0C5} 23.33%{fill:#2C4C7A} 100.00%{fill:#2C4C7A}}
+.k39{animation:k39 18.0s ease-in-out infinite}
+@keyframes k40{0.00%{fill:#1A2442} 11.56%{fill:#1A2442} 12.11%{fill:#3FE0C5} 14.33%{fill:#2C4C7A} 100.00%{fill:#2C4C7A}}
+.k40{animation:k40 18.0s ease-in-out infinite}
+@keyframes k41{0.00%{fill:#1A2442} 12.39%{fill:#1A2442} 12.94%{fill:#3FE0C5} 15.17%{fill:#2C4C7A} 100.00%{fill:#2C4C7A}}
+.k41{animation:k41 18.0s ease-in-out infinite}
+@keyframes k42{0.00%{fill:#1A2442} 13.22%{fill:#1A2442} 13.78%{fill:#3FE0C5} 16.00%{fill:#2C4C7A} 25.00%{fill:#2C4C7A} 26.11%{fill:#FF6B6B} 69.83%{fill:#FF6B6B} 70.39%{fill:#FFFFFF} 71.78%{fill:#5BE38E} 100.00%{fill:#5BE38E}}
+.k42{animation:k42 18.0s ease-in-out infinite}
+@keyframes k43{0.00%{fill:#1A2442} 14.06%{fill:#1A2442} 14.61%{fill:#3FE0C5} 16.83%{fill:#2C4C7A} 100.00%{fill:#2C4C7A}}
+.k43{animation:k43 18.0s ease-in-out infinite}
+@keyframes k44{0.00%{fill:#1A2442} 14.89%{fill:#1A2442} 15.44%{fill:#3FE0C5} 17.67%{fill:#2C4C7A} 100.00%{fill:#2C4C7A}}
+.k44{animation:k44 18.0s ease-in-out infinite}
+@keyframes k45{0.00%{fill:#1A2442} 15.72%{fill:#1A2442} 16.28%{fill:#3FE0C5} 18.50%{fill:#2C4C7A} 100.00%{fill:#2C4C7A}}
+.k45{animation:k45 18.0s ease-in-out infinite}
+@keyframes k46{0.00%{fill:#1A2442} 16.56%{fill:#1A2442} 17.11%{fill:#3FE0C5} 19.33%{fill:#2C4C7A} 100.00%{fill:#2C4C7A}}
+.k46{animation:k46 18.0s ease-in-out infinite}
+@keyframes k47{0.00%{fill:#1A2442} 17.39%{fill:#1A2442} 17.94%{fill:#3FE0C5} 20.17%{fill:#2C4C7A} 25.00%{fill:#2C4C7A} 26.11%{fill:#FF6B6B} 72.89%{fill:#FF6B6B} 73.44%{fill:#FFFFFF} 74.83%{fill:#5BE38E} 100.00%{fill:#5BE38E}}
+.k47{animation:k47 18.0s ease-in-out infinite}
+@keyframes k48{0.00%{fill:#1A2442} 18.22%{fill:#1A2442} 18.78%{fill:#3FE0C5} 21.00%{fill:#2C4C7A} 100.00%{fill:#2C4C7A}}
+.k48{animation:k48 18.0s ease-in-out infinite}
+@keyframes k49{0.00%{fill:#1A2442} 19.06%{fill:#1A2442} 19.61%{fill:#3FE0C5} 21.83%{fill:#2C4C7A} 100.00%{fill:#2C4C7A}}
+.k49{animation:k49 18.0s ease-in-out infinite}
+@keyframes k50{0.00%{fill:#1A2442} 19.89%{fill:#1A2442} 20.44%{fill:#3FE0C5} 22.67%{fill:#2C4C7A} 100.00%{fill:#2C4C7A}}
+.k50{animation:k50 18.0s ease-in-out infinite}
+@keyframes k51{0.00%{fill:#1A2442} 20.72%{fill:#1A2442} 21.28%{fill:#3FE0C5} 23.50%{fill:#2C4C7A} 100.00%{fill:#2C4C7A}}
+.k51{animation:k51 18.0s ease-in-out infinite}
+@keyframes k52{0.00%{fill:#1A2442} 11.72%{fill:#1A2442} 12.28%{fill:#3FE0C5} 14.50%{fill:#2C4C7A} 100.00%{fill:#2C4C7A}}
+.k52{animation:k52 18.0s ease-in-out infinite}
+@keyframes k53{0.00%{fill:#1A2442} 12.56%{fill:#1A2442} 13.11%{fill:#3FE0C5} 15.33%{fill:#2C4C7A} 23.89%{fill:#2C4C7A} 25.00%{fill:#FF6B6B} 69.22%{fill:#FF6B6B} 69.78%{fill:#FFFFFF} 71.17%{fill:#5BE38E} 100.00%{fill:#5BE38E}}
+.k53{animation:k53 18.0s ease-in-out infinite}
+@keyframes k54{0.00%{fill:#1A2442} 13.39%{fill:#1A2442} 13.94%{fill:#3FE0C5} 16.17%{fill:#2C4C7A} 100.00%{fill:#2C4C7A}}
+.k54{animation:k54 18.0s ease-in-out infinite}
+@keyframes k55{0.00%{fill:#1A2442} 14.22%{fill:#1A2442} 14.78%{fill:#3FE0C5} 17.00%{fill:#2C4C7A} 100.00%{fill:#2C4C7A}}
+.k55{animation:k55 18.0s ease-in-out infinite}
+@keyframes k56{0.00%{fill:#1A2442} 15.06%{fill:#1A2442} 15.61%{fill:#3FE0C5} 17.83%{fill:#2C4C7A} 100.00%{fill:#2C4C7A}}
+.k56{animation:k56 18.0s ease-in-out infinite}
+@keyframes k57{0.00%{fill:#1A2442} 15.89%{fill:#1A2442} 16.44%{fill:#3FE0C5} 18.67%{fill:#2C4C7A} 100.00%{fill:#2C4C7A}}
+.k57{animation:k57 18.0s ease-in-out infinite}
+@keyframes k58{0.00%{fill:#1A2442} 16.72%{fill:#1A2442} 17.28%{fill:#3FE0C5} 19.50%{fill:#2C4C7A} 23.89%{fill:#2C4C7A} 25.00%{fill:#FF6B6B} 72.28%{fill:#FF6B6B} 72.83%{fill:#FFFFFF} 74.22%{fill:#5BE38E} 100.00%{fill:#5BE38E}}
+.k58{animation:k58 18.0s ease-in-out infinite}
+@keyframes k59{0.00%{fill:#1A2442} 17.56%{fill:#1A2442} 18.11%{fill:#3FE0C5} 20.33%{fill:#2C4C7A} 100.00%{fill:#2C4C7A}}
+.k59{animation:k59 18.0s ease-in-out infinite}
+@keyframes k60{0.00%{fill:#1A2442} 18.39%{fill:#1A2442} 18.94%{fill:#3FE0C5} 21.17%{fill:#2C4C7A} 100.00%{fill:#2C4C7A}}
+.k60{animation:k60 18.0s ease-in-out infinite}
+@keyframes k61{0.00%{fill:#1A2442} 19.22%{fill:#1A2442} 19.78%{fill:#3FE0C5} 22.00%{fill:#2C4C7A} 100.00%{fill:#2C4C7A}}
+.k61{animation:k61 18.0s ease-in-out infinite}
+@keyframes k62{0.00%{fill:#1A2442} 20.06%{fill:#1A2442} 20.61%{fill:#3FE0C5} 22.83%{fill:#2C4C7A} 100.00%{fill:#2C4C7A}}
+.k62{animation:k62 18.0s ease-in-out infinite}
+@keyframes k63{0.00%{fill:#1A2442} 20.89%{fill:#1A2442} 21.44%{fill:#3FE0C5} 23.67%{fill:#2C4C7A} 100.00%{fill:#2C4C7A}}
+.k63{animation:k63 18.0s ease-in-out infinite}
+@keyframes k64{0.00%{fill:#1A2442} 11.89%{fill:#1A2442} 12.44%{fill:#3FE0C5} 14.67%{fill:#2C4C7A} 24.17%{fill:#2C4C7A} 25.28%{fill:#FF6B6B} 68.61%{fill:#FF6B6B} 69.17%{fill:#FFFFFF} 70.56%{fill:#5BE38E} 100.00%{fill:#5BE38E}}
+.k64{animation:k64 18.0s ease-in-out infinite}
+@keyframes k65{0.00%{fill:#1A2442} 12.72%{fill:#1A2442} 13.28%{fill:#3FE0C5} 15.50%{fill:#2C4C7A} 100.00%{fill:#2C4C7A}}
+.k65{animation:k65 18.0s ease-in-out infinite}
+@keyframes k66{0.00%{fill:#1A2442} 13.56%{fill:#1A2442} 14.11%{fill:#3FE0C5} 16.33%{fill:#2C4C7A} 100.00%{fill:#2C4C7A}}
+.k66{animation:k66 18.0s ease-in-out infinite}
+@keyframes k67{0.00%{fill:#1A2442} 14.39%{fill:#1A2442} 14.94%{fill:#3FE0C5} 17.17%{fill:#2C4C7A} 100.00%{fill:#2C4C7A}}
+.k67{animation:k67 18.0s ease-in-out infinite}
+@keyframes k68{0.00%{fill:#1A2442} 15.22%{fill:#1A2442} 15.78%{fill:#3FE0C5} 18.00%{fill:#2C4C7A} 100.00%{fill:#2C4C7A}}
+.k68{animation:k68 18.0s ease-in-out infinite}
+@keyframes k69{0.00%{fill:#1A2442} 16.06%{fill:#1A2442} 16.61%{fill:#3FE0C5} 18.83%{fill:#2C4C7A} 24.17%{fill:#2C4C7A} 25.28%{fill:#FFB547} 71.67%{fill:#FFB547} 72.22%{fill:#FFFFFF} 73.61%{fill:#5BE38E} 100.00%{fill:#5BE38E}}
+.k69{animation:k69 18.0s ease-in-out infinite}
+@keyframes k70{0.00%{fill:#1A2442} 16.89%{fill:#1A2442} 17.44%{fill:#3FE0C5} 19.67%{fill:#2C4C7A} 100.00%{fill:#2C4C7A}}
+.k70{animation:k70 18.0s ease-in-out infinite}
+@keyframes k71{0.00%{fill:#1A2442} 17.72%{fill:#1A2442} 18.28%{fill:#3FE0C5} 20.50%{fill:#2C4C7A} 100.00%{fill:#2C4C7A}}
+.k71{animation:k71 18.0s ease-in-out infinite}
+@keyframes k72{0.00%{fill:#1A2442} 18.56%{fill:#1A2442} 19.11%{fill:#3FE0C5} 21.33%{fill:#2C4C7A} 100.00%{fill:#2C4C7A}}
+.k72{animation:k72 18.0s ease-in-out infinite}
+@keyframes k73{0.00%{fill:#1A2442} 19.39%{fill:#1A2442} 19.94%{fill:#3FE0C5} 22.17%{fill:#2C4C7A} 23.89%{fill:#2C4C7A} 25.00%{fill:#FF6B6B} 74.11%{fill:#FF6B6B} 74.67%{fill:#FFFFFF} 76.06%{fill:#5BE38E} 100.00%{fill:#5BE38E}}
+.k73{animation:k73 18.0s ease-in-out infinite}
+@keyframes k74{0.00%{fill:#1A2442} 20.22%{fill:#1A2442} 20.78%{fill:#3FE0C5} 23.00%{fill:#2C4C7A} 100.00%{fill:#2C4C7A}}
+.k74{animation:k74 18.0s ease-in-out infinite}
+@keyframes k75{0.00%{fill:#1A2442} 21.06%{fill:#1A2442} 21.61%{fill:#3FE0C5} 23.83%{fill:#2C4C7A} 100.00%{fill:#2C4C7A}}
+.k75{animation:k75 18.0s ease-in-out infinite}
+@keyframes k76{0.00%{stroke-dashoffset:289.0px;stroke:#FFB547} 25.56%{stroke-dashoffset:289.0px;stroke:#FFB547} 30.56%{stroke-dashoffset:104.0px;stroke:#FFB547} 74.44%{stroke-dashoffset:104.0px;stroke:#FFB547} 79.17%{stroke-dashoffset:11.6px;stroke:#5BE38E} 100.00%{stroke-dashoffset:11.6px;stroke:#5BE38E}}
+.k76{animation:k76 18.0s ease-in-out infinite}
+@keyframes k77{0.00%{stroke-dashoffset:289.0px;stroke:#FFB547} 25.56%{stroke-dashoffset:289.0px;stroke:#FFB547} 30.56%{stroke-dashoffset:104.0px;stroke:#FFB547} 74.44%{stroke-dashoffset:104.0px;stroke:#FFB547} 79.17%{stroke-dashoffset:11.6px;stroke:#5BE38E} 100.00%{stroke-dashoffset:11.6px;stroke:#5BE38E}}
+.k77{animation:k77 18.0s ease-in-out infinite}
+@keyframes k78{0.00%{opacity:0} 25.83%{opacity:0} 25.94%{opacity:1} 26.78%{opacity:1} 26.89%{opacity:0} 100.00%{opacity:0}}
+.k78{animation:k78 18.0s linear infinite}
+@keyframes k79{0.00%{opacity:0} 26.78%{opacity:0} 26.89%{opacity:1} 27.72%{opacity:1} 27.83%{opacity:0} 100.00%{opacity:0}}
+.k79{animation:k79 18.0s linear infinite}
+@keyframes k80{0.00%{opacity:0} 27.72%{opacity:0} 27.83%{opacity:1} 28.67%{opacity:1} 28.78%{opacity:0} 100.00%{opacity:0}}
+.k80{animation:k80 18.0s linear infinite}
+@keyframes k81{0.00%{opacity:0} 28.67%{opacity:0} 28.78%{opacity:1} 29.61%{opacity:1} 29.72%{opacity:0} 100.00%{opacity:0}}
+.k81{animation:k81 18.0s linear infinite}
+@keyframes k82{0.00%{opacity:0} 29.61%{opacity:0} 29.72%{opacity:1} 74.72%{opacity:1} 74.83%{opacity:0} 100.00%{opacity:0}}
+.k82{animation:k82 18.0s linear infinite}
+@keyframes k83{0.00%{opacity:0} 74.72%{opacity:0} 74.83%{opacity:1} 75.83%{opacity:1} 75.94%{opacity:0} 100.00%{opacity:0}}
+.k83{animation:k83 18.0s linear infinite}
+@keyframes k84{0.00%{opacity:0} 75.83%{opacity:0} 75.94%{opacity:1} 76.94%{opacity:1} 77.06%{opacity:0} 100.00%{opacity:0}}
+.k84{animation:k84 18.0s linear infinite}
+@keyframes k85{0.00%{opacity:0} 76.94%{opacity:0} 77.06%{opacity:1} 78.06%{opacity:1} 78.17%{opacity:0} 100.00%{opacity:0}}
+.k85{animation:k85 18.0s linear infinite}
+@keyframes k86{0.00%{opacity:0} 78.06%{opacity:0} 78.17%{opacity:1} 100.00%{opacity:1}}
+.k86{animation:k86 18.0s linear infinite}
+@keyframes k87{0.00%{transform:translate(44.94px,-2.38px);opacity:0} 79.17%{transform:translate(44.94px,-2.38px);opacity:0} 79.44%{transform:translate(44.94px,-2.38px);opacity:1} 84.17%{transform:translate(66.43px,-3.51px);opacity:0} 100.00%{transform:translate(66.43px,-3.51px);opacity:0}}
+.k87{animation:k87 18.0s cubic-bezier(.2,.7,.3,1) infinite}
+@keyframes k88{0.00%{transform:translate(43.52px,11.45px);opacity:0} 79.17%{transform:translate(43.52px,11.45px);opacity:0} 79.44%{transform:translate(43.52px,11.45px);opacity:1} 84.17%{transform:translate(83.79px,22.04px);opacity:0} 100.00%{transform:translate(83.79px,22.04px);opacity:0}}
+.k88{animation:k88 18.0s cubic-bezier(.2,.7,.3,1) infinite}
+@keyframes k89{0.00%{transform:translate(33.08px,30.51px);opacity:0} 79.17%{transform:translate(33.08px,30.51px);opacity:0} 79.44%{transform:translate(33.08px,30.51px);opacity:1} 84.17%{transform:translate(46.85px,43.22px);opacity:0} 100.00%{transform:translate(46.85px,43.22px);opacity:0}}
+.k89{animation:k89 18.0s cubic-bezier(.2,.7,.3,1) infinite}
+@keyframes k90{0.00%{transform:translate(20.71px,39.95px);opacity:0} 79.17%{transform:translate(20.71px,39.95px);opacity:0} 79.44%{transform:translate(20.71px,39.95px);opacity:1} 84.17%{transform:translate(29.72px,57.33px);opacity:0} 100.00%{transform:translate(29.72px,57.33px);opacity:0}}
+.k90{animation:k90 18.0s cubic-bezier(.2,.7,.3,1) infinite}
+@keyframes k91{0.00%{transform:translate(5.79px,44.63px);opacity:0} 79.17%{transform:translate(5.79px,44.63px);opacity:0} 79.44%{transform:translate(5.79px,44.63px);opacity:1} 84.17%{transform:translate(8.33px,64.18px);opacity:0} 100.00%{transform:translate(8.33px,64.18px);opacity:0}}
+.k91{animation:k91 18.0s cubic-bezier(.2,.7,.3,1) infinite}
+@keyframes k92{0.00%{transform:translate(-11.59px,43.48px);opacity:0} 79.17%{transform:translate(-11.59px,43.48px);opacity:0} 79.44%{transform:translate(-11.59px,43.48px);opacity:1} 84.17%{transform:translate(-20.33px,76.3px);opacity:0} 100.00%{transform:translate(-20.33px,76.3px);opacity:0}}
+.k92{animation:k92 18.0s cubic-bezier(.2,.7,.3,1) infinite}
+@keyframes k93{0.00%{transform:translate(-33.04px,30.55px);opacity:0} 79.17%{transform:translate(-33.04px,30.55px);opacity:0} 79.44%{transform:translate(-33.04px,30.55px);opacity:1} 84.17%{transform:translate(-58.37px,53.96px);opacity:0} 100.00%{transform:translate(-58.37px,53.96px);opacity:0}}
+.k93{animation:k93 18.0s cubic-bezier(.2,.7,.3,1) infinite}
+@keyframes k94{0.00%{transform:translate(-41.96px,16.25px);opacity:0} 79.17%{transform:translate(-41.96px,16.25px);opacity:0} 79.44%{transform:translate(-41.96px,16.25px);opacity:1} 84.17%{transform:translate(-68.91px,26.69px);opacity:0} 100.00%{transform:translate(-68.91px,26.69px);opacity:0}}
+.k94{animation:k94 18.0s cubic-bezier(.2,.7,.3,1) infinite}
+@keyframes k95{0.00%{transform:translate(-44.58px,6.1px);opacity:0} 79.17%{transform:translate(-44.58px,6.1px);opacity:0} 79.44%{transform:translate(-44.58px,6.1px);opacity:1} 84.17%{transform:translate(-86.94px,11.9px);opacity:0} 100.00%{transform:translate(-86.94px,11.9px);opacity:0}}
+.k95{animation:k95 18.0s cubic-bezier(.2,.7,.3,1) infinite}
+@keyframes k96{0.00%{transform:translate(-41.98px,-16.21px);opacity:0} 79.17%{transform:translate(-41.98px,-16.21px);opacity:0} 79.44%{transform:translate(-41.98px,-16.21px);opacity:1} 84.17%{transform:translate(-72.97px,-28.17px);opacity:0} 100.00%{transform:translate(-72.97px,-28.17px);opacity:0}}
+.k96{animation:k96 18.0s cubic-bezier(.2,.7,.3,1) infinite}
+@keyframes k97{0.00%{transform:translate(-33.59px,-29.94px);opacity:0} 79.17%{transform:translate(-33.59px,-29.94px);opacity:0} 79.44%{transform:translate(-33.59px,-29.94px);opacity:1} 84.17%{transform:translate(-64.56px,-57.54px);opacity:0} 100.00%{transform:translate(-64.56px,-57.54px);opacity:0}}
+.k97{animation:k97 18.0s cubic-bezier(.2,.7,.3,1) infinite}
+@keyframes k98{0.00%{transform:translate(-22.04px,-39.23px);opacity:0} 79.17%{transform:translate(-22.04px,-39.23px);opacity:0} 79.44%{transform:translate(-22.04px,-39.23px);opacity:1} 84.17%{transform:translate(-38.76px,-69px);opacity:0} 100.00%{transform:translate(-38.76px,-69px);opacity:0}}
+.k98{animation:k98 18.0s cubic-bezier(.2,.7,.3,1) infinite}
+@keyframes k99{0.00%{transform:translate(-1.72px,-44.97px);opacity:0} 79.17%{transform:translate(-1.72px,-44.97px);opacity:0} 79.44%{transform:translate(-1.72px,-44.97px);opacity:1} 84.17%{transform:translate(-3px,-78.37px);opacity:0} 100.00%{transform:translate(-3px,-78.37px);opacity:0}}
+.k99{animation:k99 18.0s cubic-bezier(.2,.7,.3,1) infinite}
+@keyframes k100{0.00%{transform:translate(18.02px,-41.23px);opacity:0} 79.17%{transform:translate(18.02px,-41.23px);opacity:0} 79.44%{transform:translate(18.02px,-41.23px);opacity:1} 84.17%{transform:translate(32.26px,-73.83px);opacity:0} 100.00%{transform:translate(32.26px,-73.83px);opacity:0}}
+.k100{animation:k100 18.0s cubic-bezier(.2,.7,.3,1) infinite}
+@keyframes k101{0.00%{transform:translate(33.49px,-30.05px);opacity:0} 79.17%{transform:translate(33.49px,-30.05px);opacity:0} 79.44%{transform:translate(33.49px,-30.05px);opacity:1} 84.17%{transform:translate(55.7px,-49.97px);opacity:0} 100.00%{transform:translate(55.7px,-49.97px);opacity:0}}
+.k101{animation:k101 18.0s cubic-bezier(.2,.7,.3,1) infinite}
+@keyframes k102{0.00%{transform:translate(41.39px,-17.65px);opacity:0} 79.17%{transform:translate(41.39px,-17.65px);opacity:0} 79.44%{transform:translate(41.39px,-17.65px);opacity:1} 84.17%{transform:translate(82.52px,-35.18px);opacity:0} 100.00%{transform:translate(82.52px,-35.18px);opacity:0}}
+.k102{animation:k102 18.0s cubic-bezier(.2,.7,.3,1) infinite}
+@keyframes k103{0.00%{transform:scale(1);opacity:0} 79.17%{transform:scale(1);opacity:0} 79.44%{transform:scale(1);opacity:0.9} 84.17%{transform:scale(1.6);opacity:0} 100.00%{transform:scale(1.6);opacity:0}}
+.k103{animation:k103 18.0s ease-out infinite}
+@keyframes k104{0.00%{opacity:0} 38.33%{opacity:0} 39.72%{opacity:1} 51.67%{opacity:1} 53.33%{opacity:0} 100.00%{opacity:0}}
+.k104{animation:k104 18.0s ease-in-out infinite}
+@keyframes k105{0.00%{opacity:0;transform:translateX(-16px)} 30.56%{opacity:0;transform:translateX(-16px)} 32.78%{opacity:1;transform:translateX(0px)} 100.00%{opacity:1;transform:translateX(0px)}}
+.k105{animation:k105 18.0s cubic-bezier(.2,.8,.3,1) infinite}
+@keyframes k106{0.00%{opacity:1} 68.33%{opacity:1} 69.00%{opacity:0} 100.00%{opacity:0}}
+.k106{animation:k106 18.0s ease-in-out infinite}
+@keyframes k107{0.00%{opacity:0} 68.33%{opacity:0} 69.00%{opacity:1} 100.00%{opacity:1}}
+.k107{animation:k107 18.0s ease-in-out infinite}
+@keyframes k108{0.00%{opacity:0;transform:scale(0.6)} 68.78%{opacity:0;transform:scale(0.6)} 70.00%{opacity:1;transform:scale(1.08)} 70.83%{opacity:1;transform:scale(1)} 100.00%{opacity:1;transform:scale(1)}}
+.k108{animation:k108 18.0s ease-in-out infinite}
+@keyframes k109{0.00%{opacity:0;transform:translateX(-16px)} 31.94%{opacity:0;transform:translateX(-16px)} 34.17%{opacity:1;transform:translateX(0px)} 100.00%{opacity:1;transform:translateX(0px)}}
+.k109{animation:k109 18.0s cubic-bezier(.2,.8,.3,1) infinite}
+@keyframes k110{0.00%{opacity:1} 70.83%{opacity:1} 71.50%{opacity:0} 100.00%{opacity:0}}
+.k110{animation:k110 18.0s ease-in-out infinite}
+@keyframes k111{0.00%{opacity:0} 70.83%{opacity:0} 71.50%{opacity:1} 100.00%{opacity:1}}
+.k111{animation:k111 18.0s ease-in-out infinite}
+@keyframes k112{0.00%{opacity:0;transform:scale(0.6)} 71.28%{opacity:0;transform:scale(0.6)} 72.50%{opacity:1;transform:scale(1.08)} 73.33%{opacity:1;transform:scale(1)} 100.00%{opacity:1;transform:scale(1)}}
+.k112{animation:k112 18.0s ease-in-out infinite}
+@keyframes k113{0.00%{opacity:0;transform:translateX(-16px)} 33.33%{opacity:0;transform:translateX(-16px)} 35.56%{opacity:1;transform:translateX(0px)} 100.00%{opacity:1;transform:translateX(0px)}}
+.k113{animation:k113 18.0s cubic-bezier(.2,.8,.3,1) infinite}
+@keyframes k114{0.00%{opacity:1} 73.33%{opacity:1} 74.00%{opacity:0} 100.00%{opacity:0}}
+.k114{animation:k114 18.0s ease-in-out infinite}
+@keyframes k115{0.00%{opacity:0} 73.33%{opacity:0} 74.00%{opacity:1} 100.00%{opacity:1}}
+.k115{animation:k115 18.0s ease-in-out infinite}
+@keyframes k116{0.00%{opacity:0;transform:scale(0.6)} 73.78%{opacity:0;transform:scale(0.6)} 75.00%{opacity:1;transform:scale(1.08)} 75.83%{opacity:1;transform:scale(1)} 100.00%{opacity:1;transform:scale(1)}}
+.k116{animation:k116 18.0s ease-in-out infinite}
+@keyframes k117{0.00%{opacity:0;transform:translate(170px,46px)} 34.72%{opacity:0;transform:translate(170px,46px)} 35.83%{opacity:1;transform:translate(170px,46px)} 38.89%{opacity:1;transform:translate(0px,0px)} 51.39%{opacity:1;transform:translate(0px,0px)} 52.50%{opacity:0;transform:translate(0px,0px)} 100.00%{opacity:0;transform:translate(0px,0px)}}
+.k117{animation:k117 18.0s cubic-bezier(.3,.1,.2,1) infinite}
+@keyframes k118{0.00%{opacity:0;transform:scale(0.85)} 38.89%{opacity:0;transform:scale(0.85)} 40.28%{opacity:1;transform:scale(1)} 51.11%{opacity:1;transform:scale(1)} 52.50%{opacity:0;transform:scale(0.95)} 100.00%{opacity:0;transform:scale(0.95)}}
+.k118{animation:k118 18.0s cubic-bezier(.2,.8,.3,1.2) infinite}
+@keyframes k119{0.00%{transform:translateX(0px)} 40.83%{transform:translateX(0px)} 45.56%{transform:translateX(272.26px)} 100.00%{transform:translateX(272.26px)}}
+.k119{animation:k119 18.0s steps(33) infinite}
+@keyframes k120{0.00%{opacity:0} 50.83%{opacity:0} 51.11%{opacity:1} 100.00%{opacity:1}}
+.k120{animation:k120 18.0s linear infinite}
+@keyframes k121{0.00%{transform:translateX(0px)} 51.67%{transform:translateX(0px)} 54.44%{transform:translateX(97.06px)} 100.00%{transform:translateX(97.06px)}}
+.k121{animation:k121 18.0s steps(8) infinite}
+@keyframes k122{0.00%{opacity:0;transform:translateY(10px)} 55.83%{opacity:0;transform:translateY(10px)} 57.50%{opacity:1;transform:translateY(0px)} 66.11%{opacity:1;transform:translateY(0px)} 67.50%{opacity:0;transform:translateY(-6px)} 100.00%{opacity:0;transform:translateY(-6px)}}
+.k122{animation:k122 18.0s cubic-bezier(.2,.8,.3,1) infinite}
+@keyframes k123{0.00%{opacity:0;transform:translateX(-10px)} 58.06%{opacity:0;transform:translateX(-10px)} 59.44%{opacity:1;transform:translateX(0px)} 100.00%{opacity:1;transform:translateX(0px)}}
+.k123{animation:k123 18.0s cubic-bezier(.2,.8,.3,1) infinite}
+@keyframes k124{0.00%{opacity:0;transform:translateX(-10px)} 59.72%{opacity:0;transform:translateX(-10px)} 61.11%{opacity:1;transform:translateX(0px)} 100.00%{opacity:1;transform:translateX(0px)}}
+.k124{animation:k124 18.0s cubic-bezier(.2,.8,.3,1) infinite}
+@keyframes k125{0.00%{opacity:0;transform:translateX(-10px)} 61.39%{opacity:0;transform:translateX(-10px)} 62.78%{opacity:1;transform:translateX(0px)} 100.00%{opacity:1;transform:translateX(0px)}}
+.k125{animation:k125 18.0s cubic-bezier(.2,.8,.3,1) infinite}
+@keyframes k126{0.00%{opacity:0;transform:translateX(10px)} 80.00%{opacity:0;transform:translateX(10px)} 82.22%{opacity:1;transform:translateX(0px)} 100.00%{opacity:1;transform:translateX(0px)}}
+.k126{animation:k126 18.0s ease-in-out infinite}
+@keyframes k127{0.00%{fill:#5B6890} 24.44%{fill:#5B6890} 25.56%{fill:#3FE0C5} 100.00%{fill:#3FE0C5}}
+.k127{animation:k127 18.0s ease-in-out infinite}
+@keyframes k128{0.00%{fill:#5B6890} 24.44%{fill:#5B6890} 25.56%{fill:#E8EEFA} 100.00%{fill:#E8EEFA}}
+.k128{animation:k128 18.0s ease-in-out infinite}
+@keyframes k129{0.00%{transform:scale(1);opacity:0} 24.44%{transform:scale(1);opacity:0} 24.72%{transform:scale(1);opacity:0.9} 28.89%{transform:scale(3);opacity:0} 100.00%{transform:scale(3);opacity:0}}
+.k129{animation:k129 18.0s ease-out infinite}
+@keyframes k130{0.00%{fill:#5B6890} 40.28%{fill:#5B6890} 41.39%{fill:#9C8CFF} 100.00%{fill:#9C8CFF}}
+.k130{animation:k130 18.0s ease-in-out infinite}
+@keyframes k131{0.00%{fill:#5B6890} 40.28%{fill:#5B6890} 41.39%{fill:#E8EEFA} 100.00%{fill:#E8EEFA}}
+.k131{animation:k131 18.0s ease-in-out infinite}
+@keyframes k132{0.00%{transform:scale(1);opacity:0} 40.28%{transform:scale(1);opacity:0} 40.56%{transform:scale(1);opacity:0.9} 44.72%{transform:scale(3);opacity:0} 100.00%{transform:scale(3);opacity:0}}
+.k132{animation:k132 18.0s ease-out infinite}
+@keyframes k133{0.00%{fill:#5B6890} 79.44%{fill:#5B6890} 80.56%{fill:#5BE38E} 100.00%{fill:#5BE38E}}
+.k133{animation:k133 18.0s ease-in-out infinite}
+@keyframes k134{0.00%{fill:#5B6890} 79.44%{fill:#5B6890} 80.56%{fill:#E8EEFA} 100.00%{fill:#E8EEFA}}
+.k134{animation:k134 18.0s ease-in-out infinite}
+@keyframes k135{0.00%{transform:scale(1);opacity:0} 79.44%{transform:scale(1);opacity:0} 79.72%{transform:scale(1);opacity:0.9} 83.89%{transform:scale(3);opacity:0} 100.00%{transform:scale(3);opacity:0}}
+.k135{animation:k135 18.0s ease-out infinite}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0A0F1F"/><stop offset="1" stop-color="#101A35"/>
+  </linearGradient>
+  <radialGradient id="glowT" cx="0.5" cy="0.5" r="0.5">
+    <stop offset="0" stop-color="#3FE0C5" stop-opacity="0.24"/><stop offset="1" stop-color="#3FE0C5" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="glowB" cx="0.5" cy="0.5" r="0.5">
+    <stop offset="0" stop-color="#5B7CFF" stop-opacity="0.2"/><stop offset="1" stop-color="#5B7CFF" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="glowV" cx="0.5" cy="0.5" r="0.5">
+    <stop offset="0" stop-color="#9C8CFF" stop-opacity="0.13"/><stop offset="1" stop-color="#9C8CFF" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/><stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.07"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+  </linearGradient>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+    <circle cx="2" cy="2" r="1.1" fill="#FFFFFF" fill-opacity="0.07"/>
+  </pattern>
+  <clipPath id="card"><rect width="1200" height="480" rx="22"/></clipPath>
+</defs>
+<g clip-path="url(#card)">
+  <rect width="1200" height="480" fill="url(#bg)"/>
+  <rect width="1200" height="480" fill="url(#dots)"/>
+  <g class="k1"><ellipse cx="888" cy="202" rx="432" ry="317" fill="url(#glowT)"/></g>
+  <g class="k2"><ellipse cx="120" cy="456" rx="384" ry="288" fill="url(#glowB)"/></g>
+  <g class="k3"><ellipse cx="360" cy="48" rx="312" ry="240" fill="url(#glowV)"/></g>
+  <g class="k4" transform="translate(-600 0)"><rect x="0" y="-192" width="260" height="864" fill="url(#sheen)" transform="rotate(18 130 240)"/></g>
+</g>
+<rect x="0.5" y="0.5" width="1199" height="479" rx="22" fill="none" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<defs><linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3FE0C5"/><stop offset="1" stop-color="#5BE38E"/></linearGradient><filter id="soft" x="-20%" y="-20%" width="140%" height="160%"><feGaussianBlur stdDeviation="18"/></filter></defs>
+<g transform="translate(58 56) scale(0.7812)">
+  <circle class="o k6" cx="27" cy="27" r="22" fill="none" stroke="#3FE0C5" stroke-width="2.5" opacity="0"/>
+  <circle cx="27" cy="27" r="20" fill="none" stroke="#3FE0C5" stroke-width="6"/>
+  <path class="k5" d="M18 27.5l6.5 6.5L37 21" fill="none" stroke="#5BE38E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="28" stroke-dashoffset="0"/>
+  <path d="M42 42l15 15" stroke="#3FE0C5" stroke-width="8" stroke-linecap="round"/>
+</g>
+<text x="122" y="91" font-size="30" font-weight="700" fill="#E8EEFA" letter-spacing="0.2">Searchwright</text>
+<text x="58" y="198" font-size="37" font-weight="800" fill="#E8EEFA" letter-spacing="-0.6">SEO-аудит, который</text>
+<defs><linearGradient id="ev" gradientUnits="userSpaceOnUse" x1="150" y1="0" x2="560" y2="0"><stop offset="0" stop-color="#3FE0C5"/><stop offset="1" stop-color="#5BE38E"/></linearGradient><linearGradient id="shine" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/><stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.85"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient><mask id="tagmask" maskUnits="userSpaceOnUse" x="0" y="0" width="1200" height="480"><text x="58" y="247" font-size="37" font-weight="800" letter-spacing="-0.6" fill="#000"><tspan fill="#000">показывает </tspan><tspan fill="#FFF">доказательства.</tspan></text></mask></defs>
+<text x="58" y="247" font-size="37" font-weight="800" letter-spacing="-0.6" fill="#E8EEFA"><tspan fill="#E8EEFA">показывает </tspan><tspan fill="url(#ev)">доказательства.</tspan></text>
+<g mask="url(#tagmask)"><g class="k7"><rect x="-90" y="210" width="110" height="53" fill="url(#shine)" transform="skewX(-18)"/></g></g>
+<text x="58" y="303" font-size="18" fill="#8C9AC0">Плагин для Claude Code. Код измеряет,</text>
+<text x="58" y="329" font-size="18" fill="#8C9AC0">модель объясняет, правки перепроверяются.</text>
+<g transform="translate(58 363) scale(1.0)">
+  <rect width="168.5" height="34" rx="17" fill="#3FE0C5" fill-opacity="0.10" stroke="#3FE0C5" stroke-opacity="0.45"/>
+  <circle class="o k8" cx="18" cy="17" r="4" fill="none" stroke="#3FE0C5" stroke-width="1.5" opacity="0"/><circle cx="18" cy="17" r="4" fill="#3FE0C5"/>
+  <text x="91.25" y="22.5" text-anchor="middle" font-size="15" font-weight="600" fill="#E8EEFA">Google + Яндекс</text>
+</g>
+<g transform="translate(238.5 363) scale(1.0)">
+  <rect width="172.7" height="34" rx="17" fill="#5BE38E" fill-opacity="0.10" stroke="#5BE38E" stroke-opacity="0.45"/>
+  <circle class="o k9" cx="18" cy="17" r="4" fill="none" stroke="#5BE38E" stroke-width="1.5" opacity="0"/><circle cx="18" cy="17" r="4" fill="#5BE38E"/>
+  <text x="93.35" y="22.5" text-anchor="middle" font-size="15" font-weight="600" fill="#E8EEFA">Без платных API</text>
+</g>
+<g transform="translate(423.2 363) scale(1.0)">
+  <rect width="154.85" height="34" rx="17" fill="#FFB547" fill-opacity="0.10" stroke="#FFB547" stroke-opacity="0.45"/>
+  <circle class="o k10" cx="18" cy="17" r="4" fill="none" stroke="#FFB547" stroke-width="1.5" opacity="0"/><circle cx="18" cy="17" r="4" fill="#FFB547"/>
+  <text x="84.42" y="22.5" text-anchor="middle" font-size="15" font-weight="600" fill="#E8EEFA">Работает в CI</text>
+</g>
+<rect x="610" y="60" width="540" height="392" rx="16" fill="#000" opacity="0.5" filter="url(#soft)"/>
+<rect x="600" y="34" width="560" height="412" rx="14" fill="#0D1530" stroke="#24305A"/>
+<rect class="k11" x="600" y="34" width="560" height="412" rx="14" fill="none" stroke="url(#edge)" stroke-width="1.8" pathLength="1000" stroke-dasharray="110 390" stroke-linecap="round" opacity="0"/>
+<path d="M600 70h560" stroke="#24305A"/>
+<circle cx="622" cy="52" r="5.5" fill="#FF5F57" fill-opacity="0.85"/>
+<circle cx="640" cy="52" r="5.5" fill="#FEBC2E" fill-opacity="0.85"/>
+<circle cx="658" cy="52" r="5.5" fill="#28C840" fill-opacity="0.85"/>
+<text x="860.0" y="57" text-anchor="middle" font-size="13" fill="#5B6890" class="m">claude · ~/site</text>
+<g class="k12" opacity="0"><rect x="1083.1" y="42" width="62.9" height="20" rx="10" fill="#8C9AC0" fill-opacity="0.12" stroke="#8C9AC0" stroke-opacity="0.5"/><g transform="translate(1096.1 52)" fill="none" stroke="#8C9AC0" stroke-width="1.4" stroke-linecap="round"><path d="M-2 -5v10M-2 1c0-3 6-2 6-5"/><circle cx="-2" cy="-5" r="1.6"/><circle cx="-2" cy="5.2" r="1.6"/><circle cx="4" cy="-5" r="1.6"/></g><text x="1107.1" y="56" font-size="12" class="m" fill="#8C9AC0">main</text></g>
+<g class="o k14"><g class="k13" opacity="1"><rect x="1061.43" y="42" width="84.57" height="20" rx="10" fill="#FFB547" fill-opacity="0.12" stroke="#FFB547" stroke-opacity="0.5"/><g transform="translate(1074.43 52)" fill="none" stroke="#FFB547" stroke-width="1.4" stroke-linecap="round"><path d="M-2 -5v10M-2 1c0-3 6-2 6-5"/><circle cx="-2" cy="-5" r="1.6"/><circle cx="-2" cy="5.2" r="1.6"/><circle cx="4" cy="-5" r="1.6"/></g><text x="1085.43" y="56" font-size="12" class="m" fill="#FFB547">seo-fix</text></g></g>
+<defs><clipPath id="term"><rect x="601" y="71" width="558" height="374" rx="13"/></clipPath><linearGradient id="beam" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#3FE0C5" stop-opacity="0"/><stop offset="0.8" stop-color="#3FE0C5" stop-opacity="0.35"/><stop offset="1" stop-color="#3FE0C5" stop-opacity="0.9"/></linearGradient><linearGradient id="beamG" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#5BE38E" stop-opacity="0"/><stop offset="0.8" stop-color="#5BE38E" stop-opacity="0.3"/><stop offset="1" stop-color="#5BE38E" stop-opacity="0.9"/></linearGradient></defs>
+<g clip-path="url(#term)"><g class="k15"><text x="624" y="104" font-size="16" class="m" fill="#E8EEFA"><tspan fill="#3FE0C5">❯</tspan> /seo audit https://example.com</text><defs><clipPath id="type1"><rect x="641" y="87" width="313.96" height="24"/></clipPath></defs><g clip-path="url(#type1)"><g class="k16" transform="translate(312.96 0)"><rect x="642" y="88" width="312.96" height="22" fill="#0D1530"/><rect class="k17" x="642" y="87" width="9" height="19" fill="#3FE0C5" opacity="0"/></g></g><g class="k18" opacity="0"><g class="o k19"><circle cx="630" cy="127.5" r="5.5" fill="none" stroke="#3FE0C5" stroke-width="2" stroke-dasharray="22 13" stroke-linecap="round"/></g></g><text x="624" y="132" font-size="13" font-weight="700" fill="#5BE38E" class="k20 m">✓</text><text x="644" y="132" font-size="12" class="m" fill="#5B6890">обход</text><rect x="700" y="124" width="224" height="5" rx="2.5" fill="#1A2442"/><rect class="ol k21" x="700" y="124" width="224" height="5" rx="2.5" fill="#3FE0C5"/><text x="936" y="132" font-size="12" fill="#8C9AC0" opacity="0" class="k22 m">12 стр.</text><text x="936" y="132" font-size="12" fill="#8C9AC0" opacity="0" class="k23 m">24 стр.</text><text x="936" y="132" font-size="12" fill="#8C9AC0" opacity="0" class="k24 m">36 стр.</text><text x="936" y="132" font-size="12" fill="#8C9AC0" opacity="1" class="k25 m">48 стр.</text><rect class="k26" x="584" y="146" width="40" height="98" fill="url(#beam)" opacity="0"/><rect class="k27" x="584" y="146" width="40" height="98" fill="url(#beamG)" opacity="0"/><rect class="k28" x="624" y="152" width="16" height="16" rx="4" fill="#2C4C7A"/><rect class="k29" x="646" y="152" width="16" height="16" rx="4" fill="#2C4C7A"/><rect class="k30" x="668" y="152" width="16" height="16" rx="4" fill="#2C4C7A"/><rect class="k31" x="690" y="152" width="16" height="16" rx="4" fill="#5BE38E"/><rect class="k32" x="712" y="152" width="16" height="16" rx="4" fill="#2C4C7A"/><rect class="k33" x="734" y="152" width="16" height="16" rx="4" fill="#2C4C7A"/><rect class="k34" x="756" y="152" width="16" height="16" rx="4" fill="#2C4C7A"/><rect class="k35" x="778" y="152" width="16" height="16" rx="4" fill="#5BE38E"/><rect class="k36" x="800" y="152" width="16" height="16" rx="4" fill="#2C4C7A"/><rect class="k37" x="822" y="152" width="16" height="16" rx="4" fill="#2C4C7A"/><rect class="k38" x="844" y="152" width="16" height="16" rx="4" fill="#2C4C7A"/><rect class="k39" x="866" y="152" width="16" height="16" rx="4" fill="#2C4C7A"/><rect class="k40" x="624" y="174" width="16" height="16" rx="4" fill="#2C4C7A"/><rect class="k41" x="646" y="174" width="16" height="16" rx="4" fill="#2C4C7A"/><rect class="k42" x="668" y="174" width="16" height="16" rx="4" fill="#5BE38E"/><rect class="k43" x="690" y="174" width="16" height="16" rx="4" fill="#2C4C7A"/><rect class="k44" x="712" y="174" width="16" height="16" rx="4" fill="#2C4C7A"/><rect class="k45" x="734" y="174" width="16" height="16" rx="4" fill="#2C4C7A"/><rect class="k46" x="756" y="174" width="16" height="16" rx="4" fill="#2C4C7A"/><rect class="k47" x="778" y="174" width="16" height="16" rx="4" fill="#5BE38E"/><rect class="k48" x="800" y="174" width="16" height="16" rx="4" fill="#2C4C7A"/><rect class="k49" x="822" y="174" width="16" height="16" rx="4" fill="#2C4C7A"/><rect class="k50" x="844" y="174" width="16" height="16" rx="4" fill="#2C4C7A"/><rect class="k51" x="866" y="174" width="16" height="16" rx="4" fill="#2C4C7A"/><rect class="k52" x="624" y="196" width="16" height="16" rx="4" fill="#2C4C7A"/><rect class="k53" x="646" y="196" width="16" height="16" rx="4" fill="#5BE38E"/><rect class="k54" x="668" y="196" width="16" height="16" rx="4" fill="#2C4C7A"/><rect class="k55" x="690" y="196" width="16" height="16" rx="4" fill="#2C4C7A"/><rect class="k56" x="712" y="196" width="16" height="16" rx="4" fill="#2C4C7A"/><rect class="k57" x="734" y="196" width="16" height="16" rx="4" fill="#2C4C7A"/><rect class="k58" x="756" y="196" width="16" height="16" rx="4" fill="#5BE38E"/><rect class="k59" x="778" y="196" width="16" height="16" rx="4" fill="#2C4C7A"/><rect class="k60" x="800" y="196" width="16" height="16" rx="4" fill="#2C4C7A"/><rect class="k61" x="822" y="196" width="16" height="16" rx="4" fill="#2C4C7A"/><rect class="k62" x="844" y="196" width="16" height="16" rx="4" fill="#2C4C7A"/><rect class="k63" x="866" y="196" width="16" height="16" rx="4" fill="#2C4C7A"/><rect class="k64" x="624" y="218" width="16" height="16" rx="4" fill="#5BE38E"/><rect class="k65" x="646" y="218" width="16" height="16" rx="4" fill="#2C4C7A"/><rect class="k66" x="668" y="218" width="16" height="16" rx="4" fill="#2C4C7A"/><rect class="k67" x="690" y="218" width="16" height="16" rx="4" fill="#2C4C7A"/><rect class="k68" x="712" y="218" width="16" height="16" rx="4" fill="#2C4C7A"/><rect class="k69" x="734" y="218" width="16" height="16" rx="4" fill="#5BE38E"/><rect class="k70" x="756" y="218" width="16" height="16" rx="4" fill="#2C4C7A"/><rect class="k71" x="778" y="218" width="16" height="16" rx="4" fill="#2C4C7A"/><rect class="k72" x="800" y="218" width="16" height="16" rx="4" fill="#2C4C7A"/><rect class="k73" x="822" y="218" width="16" height="16" rx="4" fill="#5BE38E"/><rect class="k74" x="844" y="218" width="16" height="16" rx="4" fill="#2C4C7A"/><rect class="k75" x="866" y="218" width="16" height="16" rx="4" fill="#2C4C7A"/><circle cx="1060" cy="194" r="46" fill="none" stroke="#1A2442" stroke-width="10"/><circle class="k76" cx="1060" cy="194" r="46" fill="none" stroke="#5BE38E" stroke-width="22" stroke-opacity="0.12" stroke-dasharray="289.0" stroke-dashoffset="11.6" transform="rotate(-90 1060 194)"/><circle class="k77" cx="1060" cy="194" r="46" fill="none" stroke="#5BE38E" stroke-width="10" stroke-linecap="round" stroke-dasharray="289.0" stroke-dashoffset="11.6" transform="rotate(-90 1060 194)"/><text class="k78" x="1060" y="201" text-anchor="middle" font-size="32" font-weight="800" fill="#FFB547" opacity="0">13</text><text class="k79" x="1060" y="201" text-anchor="middle" font-size="32" font-weight="800" fill="#FFB547" opacity="0">29</text><text class="k80" x="1060" y="201" text-anchor="middle" font-size="32" font-weight="800" fill="#FFB547" opacity="0">44</text><text class="k81" x="1060" y="201" text-anchor="middle" font-size="32" font-weight="800" fill="#FFB547" opacity="0">55</text><text class="k82" x="1060" y="201" text-anchor="middle" font-size="32" font-weight="800" fill="#FFB547" opacity="0">64</text><text class="k83" x="1060" y="201" text-anchor="middle" font-size="32" font-weight="800" fill="#FFB547" opacity="0">71</text><text class="k84" x="1060" y="201" text-anchor="middle" font-size="32" font-weight="800" fill="#FFB547" opacity="0">79</text><text class="k85" x="1060" y="201" text-anchor="middle" font-size="32" font-weight="800" fill="#5BE38E" opacity="0">88</text><text class="k86" x="1060" y="201" text-anchor="middle" font-size="32" font-weight="800" fill="#5BE38E" opacity="1">96</text><text x="1060" y="220" text-anchor="middle" font-size="11" class="m" fill="#5B6890">оценка</text><circle class="k87" cx="1060" cy="194" r="3.4" fill="#5BE38E" opacity="0"/><circle class="k88" cx="1060" cy="194" r="2.2" fill="#3FE0C5" opacity="0"/><circle class="k89" cx="1060" cy="194" r="3.4" fill="#FFB547" opacity="0"/><circle class="k90" cx="1060" cy="194" r="2.8" fill="#FFFFFF" opacity="0"/><circle class="k91" cx="1060" cy="194" r="2.8" fill="#5BE38E" opacity="0"/><circle class="k92" cx="1060" cy="194" r="2.2" fill="#3FE0C5" opacity="0"/><circle class="k93" cx="1060" cy="194" r="2.2" fill="#FFB547" opacity="0"/><circle class="k94" cx="1060" cy="194" r="2.2" fill="#FFFFFF" opacity="0"/><circle class="k95" cx="1060" cy="194" r="2.8" fill="#5BE38E" opacity="0"/><circle class="k96" cx="1060" cy="194" r="3.4" fill="#3FE0C5" opacity="0"/><circle class="k97" cx="1060" cy="194" r="2.2" fill="#FFB547" opacity="0"/><circle class="k98" cx="1060" cy="194" r="2.2" fill="#FFFFFF" opacity="0"/><circle class="k99" cx="1060" cy="194" r="2.2" fill="#5BE38E" opacity="0"/><circle class="k100" cx="1060" cy="194" r="2.8" fill="#3FE0C5" opacity="0"/><circle class="k101" cx="1060" cy="194" r="2.8" fill="#FFB547" opacity="0"/><circle class="k102" cx="1060" cy="194" r="2.8" fill="#FFFFFF" opacity="0"/><circle class="o k103" cx="1060" cy="194" r="50" fill="none" stroke="#5BE38E" stroke-width="3" opacity="0"/><rect class="k104" x="616" y="257" width="528" height="26" rx="7" fill="#FF6B6B" fill-opacity="0.09" opacity="0"/><g class="k105"><text x="624" y="276" font-size="15" font-weight="700" fill="#FF6B6B" opacity="0" class="k106 m">✕</text><text x="624" y="276" font-size="15" font-weight="700" fill="#5BE38E" class="k107 m">✓</text><text x="646" y="276" font-size="15" class="m" fill="#E8EEFA">нет canonical</text><text x="872" y="276" font-size="15" class="m" fill="#8C9AC0">4 стр.</text><g class="o k108"><rect x="1046.98" y="261" width="91.02" height="21" rx="10.5" fill="#5BE38E" fill-opacity="0.13" stroke="#5BE38E" stroke-opacity="0.35"/><text x="1092.49" y="276" text-anchor="middle" font-size="12" class="m" fill="#5BE38E">проверено</text></g></g><g class="k109"><text x="624" y="304" font-size="15" font-weight="700" fill="#FF6B6B" opacity="0" class="k110 m">✕</text><text x="624" y="304" font-size="15" font-weight="700" fill="#5BE38E" class="k111 m">✓</text><text x="646" y="304" font-size="15" class="m" fill="#E8EEFA">битая ссылка</text><text x="872" y="304" font-size="15" class="m" fill="#8C9AC0">3 стр.</text><g class="o k112"><rect x="1046.98" y="289" width="91.02" height="21" rx="10.5" fill="#5BE38E" fill-opacity="0.13" stroke="#5BE38E" stroke-opacity="0.35"/><text x="1092.49" y="304" text-anchor="middle" font-size="12" class="m" fill="#5BE38E">проверено</text></g></g><g class="k113"><text x="624" y="332" font-size="15" font-weight="700" fill="#FFB547" opacity="0" class="k114 m">✕</text><text x="624" y="332" font-size="15" font-weight="700" fill="#5BE38E" class="k115 m">✓</text><text x="646" y="332" font-size="15" class="m" fill="#E8EEFA">title длиннее 60</text><text x="872" y="332" font-size="15" class="m" fill="#8C9AC0">2 стр.</text><g class="o k116"><rect x="1046.98" y="317" width="91.02" height="21" rx="10.5" fill="#5BE38E" fill-opacity="0.13" stroke="#5BE38E" stroke-opacity="0.35"/><text x="1092.49" y="332" text-anchor="middle" font-size="12" class="m" fill="#5BE38E">проверено</text></g></g><g class="k117" opacity="0"><circle cx="676" cy="182" r="13" fill="#FF6B6B" fill-opacity="0.12" stroke="#FF6B6B" stroke-width="2.5"/><path d="M685.5 191.5l9 9" stroke="#FF6B6B" stroke-width="4" stroke-linecap="round"/></g><g class="otl k118" opacity="0"><path d="M693 199L706 210" stroke="#FF6B6B" stroke-width="2"/><rect x="706" y="198" width="296" height="58" rx="9" fill="#141D3B" stroke="#FF6B6B" stroke-opacity="0.75"/><text x="720" y="220" font-size="12" class="m" fill="#FF6B6B">доказательство<tspan fill="#8C9AC0"> · /pricing</tspan></text><text x="720" y="242" font-size="13" class="m" fill="#E8EEFA">в &lt;head&gt; нет &lt;link rel=canonical&gt;</text><defs><clipPath id="type2"><rect x="719" y="227" width="273.26" height="22"/></clipPath></defs><g clip-path="url(#type2)"><g class="k119" transform="translate(272.26 0)"><rect x="720" y="228" width="272.26" height="20" fill="#141D3B"/></g></g></g><text x="624" y="374" font-size="16" fill="#E8EEFA" class="k120 m"><tspan fill="#3FE0C5">❯</tspan> /seo fix</text><defs><clipPath id="type3"><rect x="641" y="357" width="98.06" height="24"/></clipPath></defs><g clip-path="url(#type3)"><g class="k121" transform="translate(97.06 0)"><rect x="642" y="358" width="97.06" height="22" fill="#0D1530"/></g></g><g class="k122" opacity="0"><rect x="660" y="148" width="340" height="104" rx="9" fill="#141D3B" stroke="#FFB547" stroke-opacity="0.7"/><text x="672" y="167" font-size="12" class="m" fill="#E8EEFA">pricing.html</text><text x="988" y="167" text-anchor="end" font-size="12" class="m" fill="#FFB547">seo-fix</text><path d="M660 176h340" stroke="#24305A"/><g class="k123"><rect x="661" y="185" width="338" height="18" fill="#5BE38E" fill-opacity="0.1"/><text x="672" y="198" font-size="12" class="m" fill="#5BE38E">+</text><text x="688" y="198" font-size="12" class="m" fill="#E8EEFA">&lt;link rel=&quot;canonical&quot; href=&quot;…/pricing&quot;&gt;</text></g><g class="k124"><rect x="661" y="204" width="338" height="18" fill="#FF6B6B" fill-opacity="0.1"/><text x="672" y="217" font-size="12" class="m" fill="#FF6B6B">-</text><text x="688" y="217" font-size="12" class="m" fill="#E8EEFA">&lt;a href=&quot;/old-plans&quot;&gt;Plans&lt;/a&gt;</text></g><g class="k125"><rect x="661" y="223" width="338" height="18" fill="#5BE38E" fill-opacity="0.1"/><text x="672" y="236" font-size="12" class="m" fill="#5BE38E">+</text><text x="688" y="236" font-size="12" class="m" fill="#E8EEFA">&lt;a href=&quot;/plans&quot;&gt;Plans&lt;/a&gt;</text></g></g><text x="1138" y="374" text-anchor="end" font-size="14" fill="#5BE38E" class="k126 m">исправлено 9 стр. · осталось 0</text><path d="M601 408h558" stroke="#24305A"/><circle class="o k129" cx="628" cy="426" r="4" fill="none" stroke="#3FE0C5" stroke-width="1.5" opacity="0"/><circle class="k127" cx="628" cy="426" r="4" fill="#3FE0C5"/><text x="639" y="430" font-size="12" fill="#E8EEFA" class="k128 m">код измерил</text><circle class="o k132" cx="752.4639999999999" cy="426" r="4" fill="none" stroke="#9C8CFF" stroke-width="1.5" opacity="0"/><circle class="k130" cx="752.4639999999999" cy="426" r="4" fill="#9C8CFF"/><text x="763.4639999999999" y="430" font-size="12" fill="#E8EEFA" class="k131 m">модель объяснила</text><circle class="o k135" cx="913.048" cy="426" r="4" fill="none" stroke="#5BE38E" stroke-width="1.5" opacity="0"/><circle class="k133" cx="913.048" cy="426" r="4" fill="#5BE38E"/><text x="924.048" y="430" font-size="12" fill="#E8EEFA" class="k134 m">правки проверены</text></g></g>
+</svg>
