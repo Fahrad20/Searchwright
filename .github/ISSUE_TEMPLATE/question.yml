@@ -1,0 +1,16 @@
+name: "Question / Вопрос"
+description: "Ask about Searchwright, a demo or the terms / Вопрос о Searchwright, демонстрации или условиях"
+title: "Question / Вопрос: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Questions here are public. For a private one, write to Telegram [@fahrad_l](https://t.me/fahrad_l) or to [levonyanfahrad20@gmail.com](mailto:levonyanfahrad20@gmail.com).
+
+        Вопросы здесь видны всем. Для личного вопроса напишите в Telegram [@fahrad_l](https://t.me/fahrad_l) или на [levonyanfahrad20@gmail.com](mailto:levonyanfahrad20@gmail.com).
+  - type: textarea
+    id: question
+    attributes:
+      label: "Your question / Ваш вопрос"
+    validations:
+      required: true

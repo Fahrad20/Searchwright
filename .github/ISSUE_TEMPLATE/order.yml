@@ -1,0 +1,60 @@
+name: "Order an audit / Заказать аудит"
+description: "Audit, fixes in your code, monitoring or team access / Аудит, исправления в коде, мониторинг или доступ для команды"
+title: "Request / Заявка: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **This request is public.** If you would rather not name your site in public, write to Telegram [@fahrad_l](https://t.me/fahrad_l) or to [levonyanfahrad20@gmail.com](mailto:levonyanfahrad20@gmail.com).
+
+        **Эта заявка видна всем.** Если не хотите называть сайт публично, напишите в Telegram [@fahrad_l](https://t.me/fahrad_l) или на [levonyanfahrad20@gmail.com](mailto:levonyanfahrad20@gmail.com).
+  - type: checkboxes
+    id: service
+    attributes:
+      label: "What do you need? / Что нужно?"
+      options:
+        - label: "Site audit / Аудит сайта"
+        - label: "Audit and fixes in the code / Аудит и исправления в коде"
+        - label: "Monitoring after releases / Мониторинг после релизов"
+        - label: "White-label reports or team access / Отчёты под вашим брендом или доступ для команды"
+        - label: "A demo first / Сначала демонстрация"
+  - type: input
+    id: site
+    attributes:
+      label: "Site / Сайт"
+      description: "Optional: you can send it privately instead / Необязательно: можно прислать лично"
+      placeholder: "https://example.com"
+  - type: dropdown
+    id: size
+    attributes:
+      label: "Size of the site / Размер сайта"
+      options:
+        - "Up to 100 pages / До 100 страниц"
+        - "100 to 1,000 pages / От 100 до 1000 страниц"
+        - "1,000 to 10,000 pages / От 1000 до 10 000 страниц"
+        - "More than 10,000 pages / Больше 10 000 страниц"
+        - "Not sure / Не знаю"
+  - type: input
+    id: stack
+    attributes:
+      label: "What is the site built on? / На чём сделан сайт?"
+      placeholder: "Next.js, WordPress, Astro... / не знаю"
+  - type: checkboxes
+    id: engines
+    attributes:
+      label: "Search engines / Поисковики"
+      options:
+        - label: "Google"
+        - label: "Yandex / Яндекс"
+  - type: textarea
+    id: goal
+    attributes:
+      label: "What worries you? / Что беспокоит?"
+      placeholder: "Traffic dropped, a redesign is coming, Yandex does not see the site... / Упал трафик, впереди редизайн, Яндекс не видит сайт..."
+    validations:
+      required: true
+  - type: input
+    id: contact
+    attributes:
+      label: "How to reach you / Как с вами связаться"
+      description: "Optional: Telegram or email. You can also just wait for an answer here. / Необязательно: Telegram или почта. Можно просто ждать ответа здесь."
