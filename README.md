@@ -77,19 +77,43 @@ Most SEO reports tell you *that* something is wrong. Searchwright shows
 
 ## What a finding looks like
 
-An illustrative example on a made-up site:
+Every finding has the same parts: where it was found, the proof, why it
+matters, how to fix it and how the fix is checked. An illustrative example on
+a made-up shop:
 
-```text
-HIGH   Canonical points to a page that redirects back             18 pages
-
-page       https://example.com/catalog/shoes?page=2
-evidence   <link rel="canonical" href="https://example.com/catalog/shoes">
-           /catalog/shoes  ->  script redirect  ->  /catalog/shoes?page=2
-why        Two signals contradict each other, so search engines pick the
-           main page themselves
-fix        Point the canonical at the page itself, or remove the redirect
-re-check   runs again after the fix; the finding closes only when it is gone
-```
+<table>
+  <tr>
+    <td colspan="2">🔴 <b>High</b> &nbsp;·&nbsp; <b>The canonical leads to an address that sends visitors back to the page</b> &nbsp;·&nbsp; 18&nbsp;pages</td>
+  </tr>
+  <tr>
+    <td width="20%" valign="top"><b>Where</b></td>
+    <td><code>https://example.com/p/1042</code> and 17 more product pages built the same way</td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Evidence</b></td>
+    <td>The page names another address as its main version:<br>
+      <code>&lt;link rel="canonical" href="https://example.com/p/1042-red-sneakers"&gt;</code><br>
+      That address sends the visitor straight back, by a script:<br>
+      <code>/p/1042 → /p/1042-red-sneakers → /p/1042</code></td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Why it matters</b></td>
+    <td>The page says “index the other address”, and the other address sends you
+      back. Search engines are left with no clear page to index, so the product
+      may show up in search poorly or not at all.</td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Fix</b></td>
+    <td>Keep one address. Point the canonical at the page itself, or serve the
+      product at <code>/p/1042-red-sneakers</code> and remove the script redirect.</td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Check</b></td>
+    <td>After the fix the same check runs again on all 18 pages. The finding is
+      closed only when each canonical leads to an address that opens without a
+      redirect.</td>
+  </tr>
+</table>
 
 ## In numbers
 
