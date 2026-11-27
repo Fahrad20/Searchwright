@@ -28,7 +28,7 @@
 <p align="center">
   <a href="../../issues/new?template=order.yml"><img src="assets/btn-order.svg" height="48" alt="Order an audit: request form"></a>
   <a href="https://t.me/fahrad_l"><img src="assets/btn-telegram.svg" height="48" alt="Telegram: @fahrad_l"></a>
-  <a href="mailto:levonyanfahrad20@gmail.com?subject=Searchwright%20audit"><img src="assets/btn-email.svg" height="48" alt="Email: levonyanfahrad20@gmail.com"></a>
+  <a href="mailto:levonyanfahrad@gmail.com?subject=Searchwright%20audit"><img src="assets/btn-email.svg" height="48" alt="Email: levonyanfahrad@gmail.com"></a>
   <a href="https://www.linkedin.com/in/levonyanfahrad"><img src="assets/btn-linkedin.svg" height="48" alt="LinkedIn: levonyanfahrad"></a>
 </p>
 
@@ -187,12 +187,12 @@ an estimate.
 <p align="center">
   <a href="../../issues/new?template=order.yml"><img src="assets/btn-order.svg" height="48" alt="Order an audit: request form"></a>
   <a href="https://t.me/fahrad_l"><img src="assets/btn-telegram.svg" height="48" alt="Telegram: @fahrad_l"></a>
-  <a href="mailto:levonyanfahrad20@gmail.com?subject=Searchwright%20audit"><img src="assets/btn-email.svg" height="48" alt="Email: levonyanfahrad20@gmail.com"></a>
+  <a href="mailto:levonyanfahrad@gmail.com?subject=Searchwright%20audit"><img src="assets/btn-email.svg" height="48" alt="Email: levonyanfahrad@gmail.com"></a>
   <a href="https://www.linkedin.com/in/levonyanfahrad"><img src="assets/btn-linkedin.svg" height="48" alt="LinkedIn: levonyanfahrad"></a>
 </p>
 
 The fastest way is Telegram [@fahrad_l](https://t.me/fahrad_l) or email
-[levonyanfahrad20@gmail.com](mailto:levonyanfahrad20@gmail.com?subject=Searchwright%20audit).
+[levonyanfahrad@gmail.com](mailto:levonyanfahrad@gmail.com?subject=Searchwright%20audit).
 Write the site address and what you need. Answers in English or Russian.
 
 The [request form](../../issues/new?template=order.yml) on GitHub works too,
